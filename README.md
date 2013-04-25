@@ -1,2 +1,1 @@
-snakes_and_ladder_java
-======================
+The snakes and ladders game is made in java. Use the code in src folder to play the game.
